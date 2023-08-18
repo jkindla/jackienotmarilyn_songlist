@@ -14,9 +14,6 @@ notebooks.controller('NotebookListCtrl', function($scope) {
      {"name": "Ain't It Fun",
      "procesor": "Paramore",
      "age": 2011},
-     {"name": "El Rey",
-     "procesor": "Jose Alfred Jimenez",
-     "age": 2011},
      {"name": "Magic Man",
      "procesor": "Heart",
      "age": 2011},
@@ -120,7 +117,7 @@ notebooks.controller('NotebookListCtrl', function($scope) {
      "procesor": "Chris Stapleton",
      "age": 2011},
      {"name": "Baila Esta Cumbia",
-     "procesor": "p",
+     "procesor": "Selena",
      "age": 2011},
 
 
