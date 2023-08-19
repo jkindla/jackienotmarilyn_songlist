@@ -119,6 +119,14 @@ notebooks.controller('NotebookListCtrl', function($scope) {
      {"name": "Baila Esta Cumbia",
      "procesor": "Selena",
      "age": 2011},
+     {"name": "Juice",
+     "procesor": "Lizzo",
+     "age": 2011},
+     {"name": "Locked Out Of Heaven",
+     "procesor": "Bruno Mars",
+     "age": 2011},
+
+
 
 
      
