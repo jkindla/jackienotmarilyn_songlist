@@ -125,6 +125,22 @@ notebooks.controller('NotebookListCtrl', function($scope) {
      {"name": "Locked Out Of Heaven",
      "procesor": "Bruno Mars",
      "age": 2011},
+     {"name": "Sunday Morning",
+     "procesor": "No Doubt",
+     "age": 2011},
+     {"name": "Edge Of Seventeen",
+     "procesor": "Stevie Nicks",
+     "age": 2011},
+     {"name": "Mr. Brightside",
+     "procesor": "The Killers",
+     "age": 2011},
+     {"name": "Fully Alive",
+     "procesor": "Flyleaf",
+     "age": 2011},
+     {"name": "My Own Worst Enemy",
+     "procesor": "LIT",
+     "age": 2011},
+
 
 
 
